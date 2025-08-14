@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: 'Discover, invest, and prosper with Estateus. Find your dream property, explore investment opportunities, and navigate the real estate market with confidence.',
     images: [
       {
-        url: '/og-image.svg',
+        url: '/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Estateus - Premium Real Estate Platform',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Estateus - Your Gateway to Premium Real Estate',
     description: 'Discover, invest, and prosper with Estateus. Find your dream property, explore investment opportunities, and navigate the real estate market with confidence.',
-    images: ['/og-image.svg'],
+    images: ['/og-image.png'],
     creator: '@estateus',
     site: '@estateus',
   },
