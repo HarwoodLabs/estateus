@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://estateus.com'),
+  metadataBase: new URL('https://estateus.xyz'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://estateus.com',
+    url: 'https://estateus.xyz',
     siteName: 'Estateus',
     title: 'Estateus - Your Gateway to Premium Real Estate',
     description: 'Discover, invest, and prosper with Estateus. Find your dream property, explore investment opportunities, and navigate the real estate market with confidence.',
