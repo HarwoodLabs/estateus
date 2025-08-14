@@ -1,0 +1,38 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="linear-gradient(135deg, #1e293b 0%, #334155 100%)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="80" fill="rgba(59, 130, 246, 0.1)"/>
+  <circle cx="1100" cy="530" r="120" fill="rgba(16, 185, 129, 0.1)"/>
+  
+  <!-- House icon -->
+  <g transform="translate(500, 200)">
+    <!-- Main house body -->
+    <rect x="0" y="100" width="200" height="150" fill="#3b82f6" rx="8"/>
+    
+    <!-- Roof -->
+    <path d="M-20 100 L100 40 L220 100 Z" fill="#1e40af"/>
+    
+    <!-- Door -->
+    <rect x="75" y="180" width="50" height="70" fill="#1e293b" rx="4"/>
+    <circle cx="95" cy="220" r="3" fill="#64748b"/>
+    
+    <!-- Windows -->
+    <rect x="20" y="120" width="40" height="40" fill="#e2e8f0" rx="4"/>
+    <rect x="140" y="120" width="40" height="40" fill="#e2e8f0" rx="4"/>
+    
+    <!-- Chimney -->
+    <rect x="160" y="60" width="20" height="40" fill="#475569" rx="2"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="white">Estateus</text>
+  <text x="600" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="400" fill="#cbd5e1">Your Gateway to Premium Real Estate</text>
+  
+  <!-- Tagline -->
+  <text x="600" y="520" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="300" fill="#94a3b8">Discover • Invest • Prosper</text>
+  
+  <!-- Accent line -->
+  <line x1="400" y1="550" x2="800" y2="550" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+</svg>
